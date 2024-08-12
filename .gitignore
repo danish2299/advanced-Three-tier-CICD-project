@@ -1,0 +1,12 @@
+# Ignore scanner work directory
+.scannerwork/
+
+# Ignore dependency-check report
+dependency-check-report.xml
+
+# Ignore Trivy scan results
+trivyfs.txt
+trivyimage.txt
+
+# Ignore Jenkins temporary files
+Frontend@tmp/
